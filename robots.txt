@@ -3,4 +3,4 @@ Disallow: /assets/
 Disallow: /css/
 Disallow: /js/
 Allow: /images/
-sitemap: http://www.gabadigital.com/sitemap.xml
+sitemap: https://www.gabadigital.com/sitemap.xml
