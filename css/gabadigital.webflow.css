@@ -236,11 +236,13 @@
   will-change: background-color, opacity, color, transform, box-shadow;
   box-shadow: 0 2px 4px 0 #22222252;
 }
+
 .button-dark {
   color: #fff;
   background-color: #4d4d4d;
   border-color: #4d4d4d;
 }
+
 .button-light {
   color: #4d4d4d;
   background-color: #fff;
