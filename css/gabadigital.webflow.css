@@ -225,8 +225,29 @@
   background-color: #4d4d4d;
   font-size: 1.1em;
   line-height: 1em;
+  border-radius: 5px;
   text-decoration: none;
+  transition-property: background-color, opacity, color, transform, box-shadow;
+  transition-timing-function: ease-in-out;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  will-change: background-color, opacity, color, transform, box-shadow;
+  box-shadow: 0 2px 4px 0 #22222252;
 }
+.button-dark {
+  color: #fff;
+  background-color: #4d4d4d;
+  border-color: #4d4d4d;
+}
+.button-light {
+  color: #4d4d4d;
+  background-color: #fff;
+  border-color: #fff;
+  box-shadow: 0 2px 4px 0 hsla(0, 7%, 94%, 0.51);
+}
+
 
 .button._2 {
   margin-left: 10px;
