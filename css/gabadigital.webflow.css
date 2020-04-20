@@ -716,12 +716,17 @@
     -webkit-flex-wrap: wrap;
     -ms-flex-wrap: wrap;
     flex-wrap: wrap;
+    margin-bottom: 3rem;
 }
 
 .container.service {
     width: 80%;
 }
 
+.container._2{
+    margin-top: 3rem;
+    margin-bottom:3rem;
+}
 .container.service.about-us {
     padding-top: 175px;
     padding-bottom: 175px;
