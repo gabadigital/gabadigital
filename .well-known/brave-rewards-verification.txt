@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: gabadigital.com
+Token: c36a857779a2d81f61716adf0a702d18f6071087791aef051ef0c06c99be06bd
